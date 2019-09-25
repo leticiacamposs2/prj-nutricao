@@ -38,8 +38,6 @@ for (var i = 0; i < pacientes.length; i++) {
     }
 }
 
-titulo.addEventListener("click", mostraMensagem);
-
-function mostraMensagem() {
+titulo.addEventListener("click", function() {
     console.log("Olá eu fui clicado!");
-}
+});

@@ -8,7 +8,7 @@ A nutricionista Aparecida fazia controle dos clientes com fichas cadastrais, pre
 
 #### Funcionalidades:
 
-1. Inclusão de um novo paciente:
+1. Inclusão de um novo paciente e o seu IMC é cálculado:
 
 ![](/img/tabela-pacientes.png)
 ![](/img/cadastro-paciente.png)

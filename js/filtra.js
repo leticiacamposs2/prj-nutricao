@@ -10,6 +10,7 @@ campoFiltro.addEventListener("input", function () {
             var expressao = new RegExp(this.value, "i");   
             (!expressao.test(nome)) ? paciente.classList.add("invisivel") : paciente.classList.remove("invisivel");
         });
+
     } else {
         pacientes.forEach(paciente => paciente.classList.remove("invisivel"));
     }

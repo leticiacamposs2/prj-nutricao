@@ -11,7 +11,7 @@ A nutricionista Aparecida fazia controle dos clientes com fichas cadastrais, pre
 1. Inclusão de um novo paciente:
 
 ![](/img/tabela-pacientes.png)
-![](/img/cadastro-pacientes.png)
+![](/img/cadastro-paciente.png)
 ![](/img/nova-lista-pacientes.png)
 
 2. Validação de campos:

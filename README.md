@@ -30,3 +30,8 @@ A nutricionista Aparecida fazia controle dos clientes com fichas cadastrais, pre
 
 ![](/img/tabela-pacientes.png)
 ![](/img/remove-pacientes.png)
+
+
+4. Filtrando paciente:
+
+![](/img/filtrando-paciente.png)

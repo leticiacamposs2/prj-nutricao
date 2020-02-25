@@ -35,3 +35,10 @@ A nutricionista Aparecida fazia controle dos clientes com fichas cadastrais, pre
 4. Filtrando paciente:
 
 ![](/img/filtrando-paciente.png)
+
+5. Buscando paciente através de uma requisição HTTP:
+
+- Api: http://api-pacientes.herokuapp.com/pacientes
+
+![](/img/buscar-paciente.png)
+![](/img/buscar-paciente-api.png)

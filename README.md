@@ -4,7 +4,22 @@ A nutricionista Aparecida fazia controle dos clientes com fichas cadastrais, pre
 
 #### O objetivo vai ser a criação de um site que realmente facilitará o trabalho da Aparecida!
 
-
 ![](/img/tabela-aparecida-nutricao.png)
 
+#### Funcionalidades:
 
+1. Inclusão de um novo paciente:
+
+![](/img/tabela-pacientes.png)
+![](/img/cadastro-pacientes.png)
+![](/img/nova-lista-pacientes.png)
+
+2. Validação de campos:
+
+- Não permite o cadastro de paciente em branco;
+- Não permite cadastrar peso inválido;
+- Não permite cadastrar altura inválido;
+- Não permite cadastrar gordura inválido;
+
+![](/img/valida-campo-em-branco.png)
+![](/img/valida-valores-invalidos.png)
